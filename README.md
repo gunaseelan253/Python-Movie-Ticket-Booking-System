@@ -52,4 +52,5 @@ The objective of this project is to develop a simple and functional ticket booki
 ## Author
 
 **Gunaseelan P**
+
 **Aspiring Data Analyst**
