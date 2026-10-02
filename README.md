@@ -26,7 +26,6 @@ The Movie Ticket Booking System is a console-based Python application developed 
 * Random Module
 
 ## System Functionality
-
 The application provides a menu-driven interface with the following operations:
 
 1. View Movies
